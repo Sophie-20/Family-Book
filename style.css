@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-size: 25px;
+}
+
+h1 {
+    font-weight: bolder;
+    font-family: 'Quicksand';
+}
+
+img {
+    width: auto;
+    height: 500px;
+    border-radius: 10%;
+}
+
+button {
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    letter-spacing: 0.5px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: darkorchid;
+  }
+
+
+text-input {
+    font-weight: bolder;
+    font-family: 'Quicksand';
+}
